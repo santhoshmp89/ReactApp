@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif, tahoma;
+} 
+
+#container {
+	width: 1000px;
+    margin: 0 auto;
+}
+
+.banner-block {
+	position: relative;
+}
+
+.banner-block h1.heading {
+	position: absolute;
+	    color: #F9F9F9;
+	top: 20px;
+	    padding: 0px 30px;
+}
+
+.banner-block p.description {
+	    position: absolute;
+    bottom: 100px;
+    margin: 0px;
+        padding: 0px 30px;
+    color: #F9F9F9;
+}
